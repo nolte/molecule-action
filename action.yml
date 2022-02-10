@@ -65,4 +65,4 @@ inputs:
 
 runs:
   using: docker
-  image: docker://gofrolist/molecule:v2
+  image: docker://gofrolist/molecule:v2.2.12
